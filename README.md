@@ -18,12 +18,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10</b> (21H2)
 
 <h2>List of Prerequisites</h2>
-Create an Azure Virtual Machine Windows 10, 4 vCPUs
-⦁	Name: osticket-vm
-⦁	Username: labuser
-⦁	Password: osTicketPassword1!
+<p>Create an Azure Virtual Machine Windows 10, 4 vCPUs</p>
+<p>⦁	Name: osticket-vm</p>
+<p>⦁	Username: labuser</p>
+<p>⦁	Password: osTicketPassword1!</p>
 
-Log into the VM with Remote Desktop
+<p>Log into the VM with Remote Desktop</p>
 
 Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
 
@@ -39,11 +39,11 @@ Install / Enable IIS in Windows WITH CGI
 ![Capture3](https://github.com/user-attachments/assets/13b4e3e0-451c-44ca-a407-35f4f9bcb5b7)
 ![Capture4](https://github.com/user-attachments/assets/a94c7284-bace-4ba1-b632-a832798c7d40)
 
-From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+<p>From the “osTicket-Installation-Files” folder, install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)</p>
 
-From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)
+<p>From the “osTicket-Installation-Files” folder install the Rewrite Module (rewrite_amd64_en-US.msi)</p>
 
-Create the directory C:\PHP
+<p>Create the directory C:\PHP</p>
 
 From the “osTicket-Installation-Files” folder, unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into the “C:\PHP” folder
 ![Capture5](https://github.com/user-attachments/assets/c7609496-921a-46b1-af4f-222dc157c88f)
