@@ -132,8 +132,9 @@ Note that some extensions are not enabled
 ![Capture21](https://github.com/user-attachments/assets/a920b6de-c2f9-4475-8478-79e494258cef)
 
 <p>Congratulations, hopefully it is installed with no errors!</p>
-<p>⦁	Browse to your help desk login page: http://localhost/osTicket/scp/login.php</p>
-
+ <p>⦁	Browse to your help desk login page:</p>
+ <p>http://localhost/osTicket/scp/login.php</p>
+ 
 <p>End Users osTicket URL:</p>
 <p>⦁	http://localhost/osTicket/ </p>
 
